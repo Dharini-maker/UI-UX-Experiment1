@@ -1,5 +1,8 @@
 # UI-UX-Experiment1
 
+# Name: Dharini.S
+# Reg no.: 212224040072
+
 ## Aim:
 To explore the Hands-on UI/UX Experiments
 ## Algorithm:
